@@ -1,2 +1,3 @@
 # Multilingual_Dictionary_API
-[https://multi-langual-api.onrender.com/random-name]([URL](https://multi-langual-api.onrender.com/random-name))
+[[GitHub](https://multi-langual-api.onrender.com/random-name)](https://multi-langual-api.onrender.com/random-name)
+
